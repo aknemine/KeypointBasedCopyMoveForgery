@@ -1,0 +1,6 @@
+image3
+
+metrik değerleri : 0.1  /  100  / == 1
+
+iyileştirme öncesi getFmeasure değeri = 0.8009
+iyileştirme sonrası getFmeasure değeri = 0.8557
